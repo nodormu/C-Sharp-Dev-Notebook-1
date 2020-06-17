@@ -1,0 +1,6 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter05\OverflowCheckingContext\OverflowCheckingContext\bin\Debug\OverflowCheckingContext.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter05\OverflowCheckingContext\OverflowCheckingContext\bin\Debug\OverflowCheckingContext.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter05\OverflowCheckingContext\OverflowCheckingContext\bin\Debug\OverflowCheckingContext.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter05\OverflowCheckingContext\OverflowCheckingContext\obj\Debug\OverflowCheckingContext.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter05\OverflowCheckingContext\OverflowCheckingContext\obj\Debug\OverflowCheckingContext.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter05\OverflowCheckingContext\OverflowCheckingContext\obj\Debug\OverflowCheckingContext.pdb
