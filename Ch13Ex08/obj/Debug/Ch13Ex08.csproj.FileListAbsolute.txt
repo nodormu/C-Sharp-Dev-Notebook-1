@@ -1,0 +1,6 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter13\Ch13Ex08\bin\Debug\Ch13Ex08.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter13\Ch13Ex08\bin\Debug\Ch13Ex08.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter13\Ch13Ex08\bin\Debug\Ch13Ex08.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter13\Ch13Ex08\obj\Debug\Ch13Ex08.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter13\Ch13Ex08\obj\Debug\Ch13Ex08.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter13\Ch13Ex08\obj\Debug\Ch13Ex08.pdb
