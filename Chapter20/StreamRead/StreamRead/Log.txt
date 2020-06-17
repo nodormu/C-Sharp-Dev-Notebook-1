@@ -1,0 +1,2 @@
+Made a log file so it would have something to read.
+Yep... This is getting cool.

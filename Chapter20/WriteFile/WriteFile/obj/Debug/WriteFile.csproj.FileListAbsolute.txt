@@ -1,0 +1,6 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\WriteFile\WriteFile\bin\Debug\WriteFile.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\WriteFile\WriteFile\bin\Debug\WriteFile.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\WriteFile\WriteFile\bin\Debug\WriteFile.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\WriteFile\WriteFile\obj\Debug\WriteFile.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\WriteFile\WriteFile\obj\Debug\WriteFile.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\WriteFile\WriteFile\obj\Debug\WriteFile.pdb

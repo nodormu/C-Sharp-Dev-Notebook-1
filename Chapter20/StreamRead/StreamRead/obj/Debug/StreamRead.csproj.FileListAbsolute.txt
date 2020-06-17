@@ -1,0 +1,6 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\StreamRead\StreamRead\bin\Debug\StreamRead.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\StreamRead\StreamRead\bin\Debug\StreamRead.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\StreamRead\StreamRead\bin\Debug\StreamRead.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\StreamRead\StreamRead\obj\Debug\StreamRead.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\StreamRead\StreamRead\obj\Debug\StreamRead.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\StreamRead\StreamRead\obj\Debug\StreamRead.pdb

@@ -1,0 +1,6 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\Compressor\Compressor\bin\Debug\Compressor.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\Compressor\Compressor\bin\Debug\Compressor.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\Compressor\Compressor\bin\Debug\Compressor.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\Compressor\Compressor\obj\Debug\Compressor.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\Compressor\Compressor\obj\Debug\Compressor.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\Compressor\Compressor\obj\Debug\Compressor.pdb

@@ -1,0 +1,6 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\ReadFile\ReadFile\obj\Debug\ReadFile.pdb

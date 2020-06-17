@@ -1,0 +1,13 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\bin\Debug\FileWatch.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\bin\Debug\FileWatch.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\bin\Debug\FileWatch.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\MainWindow.baml
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\MainWindow.g.cs
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\App.g.cs
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch_MarkupCompile.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch.g.resources
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch.Properties.Resources.resources
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch.csproj.GenerateResource.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter20\FileWatch\FileWatch\obj\Debug\FileWatch.pdb

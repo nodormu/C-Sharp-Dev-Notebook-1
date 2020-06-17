@@ -1,0 +1,33 @@
+From Previous 2017 install:
+Windows Template Studio
+Microsoft Reporting Services Projects
+Microsoft Analysis Services Projects
+Microsoft Visual Studio Installer Projects
+Project File Tools
+AWS Toolkit
+Visual Studio Snapshot debugger
+Github extension
+SQL Prompt Care
+SQL Search
+Cloud Explorer VS 2019
+Windows Machine Learning Code Generator VS 2019
+R Tools for Visual Studio
+Python C++ project debugging support
+Visual F# templates
+Azure Data lake and Stream Analytics
+Domain-Specific Language Designer
+Visual Studio 2019 Tools for Unity
+Xamarin Android SDK
+Xamarin Apple SDK
+Azure Functions and Web Jobs Tools
+Developer Analytics Tools
+Microsoft Library Manager
+Razor Language Services
+PreEmptive Protection
+Vistual F# Tools
+Dotnet Extensions for Test Explorer
+Microsoft Visual Studio Test Platform
+Roslyn Interactive Components
+Roslyn Language Settings
+Microsoft Visual C++ Cross-Platform Mobile Dev
+Visual Studio Emulator for Android
