@@ -1,0 +1,7 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\bin\Debug\SimpleIterators.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\bin\Debug\SimpleIterators.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\bin\Debug\SimpleIterators.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\obj\Debug\SimpleIterators.csprojAssemblyReference.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\obj\Debug\SimpleIterators.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\obj\Debug\SimpleIterators.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter11\SimpleIterators\obj\Debug\SimpleIterators.pdb
