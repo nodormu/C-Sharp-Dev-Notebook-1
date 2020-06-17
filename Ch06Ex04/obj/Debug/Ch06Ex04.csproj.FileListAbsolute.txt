@@ -1,0 +1,9 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\bin\Debug\Ch06Ex04.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\bin\Debug\Ch06Ex04.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\bin\Debug\Ch06Ex04.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\obj\Debug\Ch06Ex04.csprojAssemblyReference.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\obj\Debug\Ch06Ex04.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\obj\Debug\Ch06Ex04.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\obj\Debug\Ch06Ex04.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\obj\Debug\Ch06Ex04.Properties.Resources.resources
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex04\obj\Debug\Ch06Ex04.csproj.GenerateResource.cache
