@@ -1,0 +1,7 @@
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\obj\Debug\Ch06Ex01.csprojAssemblyReference.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\obj\Debug\Ch06Ex01.csproj.CoreCompileInputs.cache
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\bin\Debug\Ch06Ex01.exe.config
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\bin\Debug\Ch06Ex01.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\bin\Debug\Ch06Ex01.pdb
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\obj\Debug\Ch06Ex01.exe
+D:\BeginningCSharp7-master\BeginningCSharp7-myattempts\Chapter06\Ch06Ex01\obj\Debug\Ch06Ex01.pdb
